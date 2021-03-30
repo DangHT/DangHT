@@ -1,4 +1,14 @@
-### Hi there 👋
+我像一只小鸟飞来飞去高高的飞翔，
+
+有一天飞到了一个热闹的地方。
+
+噢 那眼花缭乱五彩缤纷旋转舞台，象鲜花盛开的村庄，
+
+那汽车电车电车汽车自行车，像河水一样流淌。
+
+...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DangHT&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DangHT/DangHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
